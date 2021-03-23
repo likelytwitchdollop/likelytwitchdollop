@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @likelytwitchdollop
 - 👀 I’m interested in systems design, architecture and cloud computing.
 - 🌱 I’m currently learning web and mobile application design and development using the JAM stack and a bunch of other technologies.
-- 💞️ I’m looking to collaborate on, well - almost anything. My interests are somewhat without bounds.
+- 💞️ I’m looking to collaborate on, well - almost anything. My interests are somewhat without bounds. I would kindly assist on any project as a designer or developer, provided I resonnate with the mission and intent of the project.
 - 📫 How to reach me: ?
 
 <!---

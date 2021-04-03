@@ -11,17 +11,29 @@ My name is Cynthia (oftentimes referred to as cynth). I'm a Full-Stack (JavaScri
 - 📫 How to reach me:  I'm still thinking about that.
 
 I speak:
-- JavaScript
-- HTML5 + CSS3
-- Bash
-- Python
+<p float="left">
+  <img src="./assets/html.png" alt="HTML" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/css.png" alt="CSS" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/javascript.png" alt="JavaScript" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/bash.png" alt="Bash" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/python.png" alt="JavaScript" width="36px" height="36px">
+</p>
 
 I use:
-- Sass
-- Git
-- GitHub
-- React.js
-- Node.js
+<p float="left">
+  <img src="./assets/git.png" alt="Git" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/github.png" alt="GitHub" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/react-native.png" alt="React.js" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/nodejs.png" alt="Node.js" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 IDES:
 - VS Code

@@ -10,7 +10,7 @@ My name is Cynthia (oftentimes referred to as cynth). I'm a Full-Stack (JavaScri
 - 👀 I’m looking to collaborate on, well - almost anything. My interests are somewhat without bounds. I would kindly assist on any project as a designer or developer, provided I resonnate with the mission and intent of the project.
 - 👀 How to reach me:  I'm still thinking about that.
 
-I speak:
+**I speak**:
 <p float="left">
   <img src="./assets/html.png" alt="HTML" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,7 +23,7 @@ I speak:
   <img src="./assets/python.png" alt="JavaScript" width="36px" height="36px">
 </p>
 
-I use:
+**I use**:
 <p float="left">
   <img src="./assets/git.png" alt="Git" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,7 +35,7 @@ I use:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-IDES:
+**Editors**:
 - VS Code
 
 <!---

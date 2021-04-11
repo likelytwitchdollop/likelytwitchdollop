@@ -29,6 +29,8 @@ My name is Cynthia (oftentimes referred to as cynth). I'm a Full-Stack (JavaScri
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/github.png" alt="GitHub" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/sass-1.png" alt="Sass" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/react-native.png" alt="React.js" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/nodejs.png" alt="Node.js" width="36px" height="36px">

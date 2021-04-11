@@ -49,6 +49,11 @@ My name is Cynthia (oftentimes referred to as cynth). I'm a Full-Stack (JavaScri
 </p>
 
 <!---
+**Attributtions**:
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+--->
+
+<!---
 likelytwitchdollop/likelytwitchdollop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

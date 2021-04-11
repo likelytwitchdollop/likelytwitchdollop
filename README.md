@@ -37,8 +37,16 @@ My name is Cynthia (oftentimes referred to as cynth). I'm a Full-Stack (JavaScri
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-**Editors**:
-- VS Code
+**Development Environment**:
+<p float="left">
+  <img src="./assets/vs-code-1.png" alt="HTML" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/webpack-1.png" alt="JavaScript" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/npm-1.png" alt="CSS" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/babel-1.png" alt="JavaScript" width="36px" height="36px">
+</p>
 
 <!---
 likelytwitchdollop/likelytwitchdollop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likelytwitchdollop&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-My name is Cynthia (oftentimes referred to as cynth). I'm a Full-Stack (JavaScript) Developer, and a unicorn.
+My name is Cynthia (but you can call me cynth). I'm a Full-stack JavaScript Developer, and a unicorn.
 
 - 👀 I am currently working on some challenges on Frontend Mentor to improve my front-end development.
 - 👀 I’m interested in systems design, architecture and cloud computing.

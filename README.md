@@ -74,6 +74,16 @@ My name is Cynthia (but you can call me cynth). I'm a Full-Stack JavaScript Deve
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+**Design**:
+<p float="left">
+  <img src="./assets/figma-1.png" alt="Figma" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/xd-1.png" alt="Adobe XD" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/illustrator-1.png" alt="Illustrator" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 <!---
 **Attributtions**:
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>

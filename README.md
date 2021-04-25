@@ -12,40 +12,66 @@ My name is Cynthia (but you can call me cynth). I'm a Full-Stack JavaScript Deve
 
 **Languages**:
 <p float="left">
-  <img src="./assets/html.png" alt="HTML" width="36px" height="36px">
+  <img src="./assets/html-1.png" alt="HTML" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/css.png" alt="CSS" width="36px" height="36px">
+  <img src="./assets/css-1.png" alt="CSS" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/javascript.png" alt="JavaScript" width="36px" height="36px">
+  <img src="./assets/javascript-1.png" alt="JavaScript" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/bash.png" alt="Bash" width="36px" height="36px">
+  <img src="./assets/typescript-1.png" alt="TypeScript" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/python.png" alt="JavaScript" width="36px" height="36px">
+  <img src="./assets/bash-1.png" alt="Bash" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/python-1.png" alt="Python" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/java-1.png" alt="Java" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/csharp-2.png" alt="C#" width="36px" height="36px">
 </p>
 
 **Tools + Technologies**:
+
+**🚀 Version Control + Deployment**
 <p float="left">
-  <img src="./assets/git.png" alt="Git" width="36px" height="36px">
+  <img src="./assets/git-1.png" alt="Git" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/github.png" alt="GitHub" width="36px" height="36px">
+  <img src="./assets/github-1.png" alt="GitHub" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/netlify-1.png" alt="Netlify" width="36px" height="36px">
+</p>
+
+**🎨 Frontend**
+<p float="left">
   <img src="./assets/sass-1.png" alt="Sass" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/react-native.png" alt="React.js" width="36px" height="36px">
+  <img src="./assets/react-1.png" alt="React.js" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/nodejs.png" alt="Node.js" width="36px" height="36px">
+  <img src="./assets/jest-1.png" alt="Jest" width="36px" height="36px">
+</p>
+
+**⚙ Backend**
+<p float="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/nodejs-1.png" alt="Node.js" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/mongodb-1.png" alt="MongoDB" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/graphql-1.png" alt="GraphQL" width="36px" height="36px">
 </p>
 
 **Development Environment**:
 <p float="left">
-  <img src="./assets/vs-code-1.png" alt="HTML" width="36px" height="36px">
+  <img src="./assets/vs-code-1.png" alt="VS Code" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/webpack-1.png" alt="JavaScript" width="36px" height="36px">
+  <img src="./assets/npm-1.png" alt="nmp" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/npm-1.png" alt="CSS" width="36px" height="36px">
+  <img src="./assets/webpack-1.png" alt="Webpack" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/babel-1.png" alt="JavaScript" width="36px" height="36px">
+  <img src="./assets/babel-1.png" alt="Babel" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/eslint-1.png" alt="ES Lint" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/prettier-1.png" alt="Prettier" width="36px" height="36px">
 </p>
 
 <!---

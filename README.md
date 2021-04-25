@@ -31,7 +31,7 @@ My name is Cynthia (but you can call me cynth). I'm a Full-Stack JavaScript Deve
 
 **Tools + Technologies**:
 
-**🚀 Version Control + Deployment**
+**Version Control + Deployment**
 <p float="left">
   <img src="./assets/git-1.png" alt="Git" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,7 +40,7 @@ My name is Cynthia (but you can call me cynth). I'm a Full-Stack JavaScript Deve
   <img src="./assets/netlify-1.png" alt="Netlify" width="36px" height="36px">
 </p>
 
-**🎨 Frontend**
+**Frontend**
 <p float="left">
   <img src="./assets/sass-1.png" alt="Sass" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,7 +49,7 @@ My name is Cynthia (but you can call me cynth). I'm a Full-Stack JavaScript Deve
   <img src="./assets/jest-1.png" alt="Jest" width="36px" height="36px">
 </p>
 
-**⚙ Backend**
+**Backend**
 <p float="left">
   <img src="./assets/nodejs-1.png" alt="Node.js" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

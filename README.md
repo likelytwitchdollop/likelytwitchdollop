@@ -51,7 +51,6 @@ My name is Cynthia (but you can call me cynth). I'm a Full-Stack JavaScript Deve
 
 **⚙ Backend**
 <p float="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/nodejs-1.png" alt="Node.js" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/mongodb-1.png" alt="MongoDB" width="36px" height="36px">

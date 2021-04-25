@@ -4,11 +4,11 @@
 
 My name is Cynthia (but you can call me cynth). I'm a Full-Stack JavaScript Developer, and a unicorn.
 
-- 👀 **Currently working**: on some challenges on Frontend Mentor to improve my frontend development.
-- 👀 **Interested**: in systems design, architecture and cloud computing.
-- 👀 **Currently learning**: web and mobile application design and development using the JAM stack and a bunch of other technologies.
-- 👀 **Collaborate on**: almost anything. My interests are somewhat without bounds. I would kindly assist on any project as a designer or developer.
-- 👀 **Reach me**:  I'm still thinking about that.
+- 👀 **Currently working on?**: challenges on Frontend Mentor to improve my frontend development.
+- 👀 **Interests?**: systems design & architecture, and cloud computing.
+- 👀 **Currently learning?**: web and mobile application design and development using the JAM stack and a bunch of other technologies.
+- 👀 **Collaborate?**: definitely! I would kindly assist on any project as a designer or developer.
+- 👀 **Reach me?**: I'm still thinking about that.
 
 **Languages**:
 <p float="left">

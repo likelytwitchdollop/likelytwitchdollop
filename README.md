@@ -1,8 +1,8 @@
-**Hello, World!** 👋🏾
+**Hello, World!** ヽ(o＾▽＾o)ノ
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likelytwitchdollop&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-My name is Cynthia (but you can call me cynth). I'm a Full-Stack JavaScript Developer, and a unicorn.
+My name is Cynthia (but you can call me cynth - (o^▽^o)). I'm a Full-Stack JavaScript Developer, and a unicorn.
 
 - 👀 **Currently working on?**: challenges on Frontend Mentor to improve my frontend development.
 - 👀 **Interests?**: systems design & architecture, and cloud computing.
@@ -83,6 +83,9 @@ My name is Cynthia (but you can call me cynth). I'm a Full-Stack JavaScript Deve
   <img src="./assets/illustrator-1.png" alt="Illustrator" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+**Projects**
+<p>If you're wondering where I have used these amazing tools and technologies, checkout the repos I have pinned below. <br/>Enjoy! ( ˙꒳​˙ )</p>
 
 <!---
 **Attributtions**:

@@ -64,9 +64,9 @@ My name is Cynthia (but you can call me cynth). I'm a Full-Stack JavaScript Deve
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/webpack-1.png" alt="Webpack" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/eslint-1.png" alt="ES Lint" width="36px" height="36px">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/prettier-1.png" alt="Prettier" width="36px" height="36px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/eslint-1.png" alt="ES Lint" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/babel-1.png" alt="Babel" width="36px" height="36px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

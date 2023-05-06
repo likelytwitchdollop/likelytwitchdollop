@@ -3,8 +3,7 @@
 <p>My name is Cynthia (but people call me cynth). I'm a Full-Stack (JavaScript/TypeScript) Engingeer with next to 3 years of experience in the software industry (security and software development), and a Human Experience Researcher. My interests range from human experience research, visual and motion design, to systems design and architecture, and cloud computing (yup, it's a lot).</p>
 
 <b>About Me</b>
-* 🌱 I'm currently working on a portfolio of TDD-built frontend projects...
-* 🌱 Otherwise, it's performance improvements and performing E2E and integration testing using Storybook and Cypress with the objective of migrating from a poly-repo to a mono-repo (using Nx) to enforce additional type-safety with end-to-end type-safe APIs using tRPC for a project I've been working on: <a href='https://www.gethelga.com'>helga</a>.
+* 🌱 I'm currently working on a portfolio of TDD-built frontend projects.
 * 📫 How to reach me: you can send me a message via <a href='https://www.linkedin.com/in/cynthia-mahofa/'>LinkedIn</a>.
 * 🤝 I enjoy writing documenation, and writing tests. If that's something that you need help with, send me a message. I'll be more than happy to help.
 

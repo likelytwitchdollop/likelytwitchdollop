@@ -5,7 +5,7 @@
 <b>About Me</b>
 * 🌱 I'm currently working on a portfolio of TDD-built frontend projects.
 * 📫 How to reach me: you can send me a message via <a href='https://www.linkedin.com/in/cynthia-mahofa/'>LinkedIn</a>.
-* 🤝 I enjoy writing documenation, and writing tests. If that's something that you need help with, send me a message. I'll be more than happy to help.
+* 🤝 I enjoy writing documenation and tests (E2E specifically). If that's something that you need help with, send me a message. I'll be more than happy to help.
 
 <b>My Technology Stack (and growing)</b>
 

@@ -3,9 +3,9 @@
 <p>My name is Cynthia (but people call me cynth). I'm a Full-Stack (JavaScript/TypeScript) Engingeer with next to 3 years of experience in the software industry (security and software development), and a Human Experience Researcher. My interests range from human experience research, visual and motion design, to systems design and architecture, and cloud computing (yup, it's a lot).</p>
 
 <b>About Me</b>
-* 🌱 I'm currently working ~on a portfolio of TDD-built frontend projects~ making my projects accessible.
+* 🌱 I'm currently working on some personal projects, and learning new skills along the way.
 * 📫 How to reach me: you can send me a message via <a href='https://www.linkedin.com/in/cynthia-mahofa/'>LinkedIn</a>.
-* 🤝 I enjoy writing documenation and tests (E2E specifically). If that's something that you need help with, send me a message. I'll be more than happy to help.
+* 🤝 I enjoy writing documenation and tests (E2E specifically), and conducting user research. If that's something that you need help with, send me a message. I'll be more than happy to help.
 * 💻 I also write (about projects I'm working on or new tools and technologies I'm learning). Check out my blog here: <a href='https://cynthiamahofa.vercel.app'>cynthiamahofa.com</a>.
 
 <b>My Technology Stack (and growing)</b>
